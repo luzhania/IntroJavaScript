@@ -1,5 +1,5 @@
 function multiplicar(a, b) {
-    return a * b;
-  }
-  
-  export default multiplicar;
+  return a * b;
+}
+
+export default multiplicar;
